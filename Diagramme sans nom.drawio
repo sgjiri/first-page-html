@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T12:01:45.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MbFICP7cZCjM3XUxbC09" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T12:03:41.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="xjXeyiRZwQXhAKEm82PA" version="22.0.4" type="github">
   <diagram name="Page-1" id="r0-WqExdtS5ZCbGD1Gwn">
     <mxGraphModel dx="2049" dy="2240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -282,6 +282,9 @@
         </mxCell>
         <mxCell id="hgrAGrMgJBVK0adbvTiH-294" value="Order status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="hgrAGrMgJBVK0adbvTiH-290">
           <mxGeometry x="10" y="190" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hgrAGrMgJBVK0adbvTiH-345" value="&lt;font color=&quot;#007fff&quot;&gt;date&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="hgrAGrMgJBVK0adbvTiH-290">
+          <mxGeometry x="190" y="140" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hgrAGrMgJBVK0adbvTiH-295" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;Detail Order&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="2460" y="-873.56" width="340" height="250" as="geometry">
